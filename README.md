@@ -7,6 +7,8 @@ In my second project,I used K-Means,on of the unsupervised learning (clustering)
 
 Since this algorithm does not fit the dataset, we could not get a suitable result.
 
+Also, supervised learning algorithms learn better from labeled data, our dataset consists mostly of labeled data. That's why it didn't work well in the unsupervised learning algorithm.
+
 Since we ran the algorithm on large data (1 million), it was quite late and costly. Therefore, instead of this process, we can perform faster and less costly operations with direct classification algorithms.
 
 We can even get a better result with a deep neural network model.
